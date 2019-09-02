@@ -1,3 +1,6 @@
+
+#!/usr/bin/env node
+
 const express = require("express");
 var bodyParser = require("body-parser");
 const { PythonShell } = require("python-shell");
