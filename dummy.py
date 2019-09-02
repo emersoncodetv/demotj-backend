@@ -43,7 +43,7 @@ def item_based_recom(input_dataframe, input_store_name):
 
 
 def generate_recomendations(df, store_name, top_results=2):
-    print("Stores you might enjoy based that you made a purchase in:", store_name)
+    # print("Stores you might enjoy based that you made a purchase in:", store_name)
     # Item Rating Based Cosine Similarity
     cos_sim = item_based_recom(df, store_name)
     # display(cos_sim[1:top_results+1])
