@@ -1,0 +1,46 @@
+userId;StoreId;rating;title;HELADERIA_PASTELERIA_CAFE;ENTRETENIMIENTO;MODA_CABALLERO;MODA_DAMA;BELLEZA_SALUD;MODA_INFANTIL;PLAZOLETA_COMIDAS
+1;1;36;Cine colombia;0;1;0;0;0;0;0
+1;2;60;Don Jediondo;0;0;0;0;0;0;1
+1;3;12;Crepes and Waffles;1;0;0;0;0;0;0
+2;1;37;Cine colombia;0;1;0;0;0;0;0
+2;2;58;Don Jediondo;0;0;0;0;0;0;1
+2;3;13;Crepes and Waffles;1;0;0;0;0;0;0
+3;1;35;Cine colombia;0;1;0;0;0;0;0
+3;4;62;El corral;0;0;0;0;0;0;1
+3;3;10;Crepes and Waffles;1;0;0;0;0;0;0
+4;1;32;Cine colombia;0;1;0;0;0;0;0
+4;5;60;Frisby;0;0;0;0;0;0;1
+4;3;11;Crepes and Waffles;1;0;0;0;0;0;0
+5;1;43;Cine colombia;0;1;0;0;0;0;0
+5;4;63;El corral;0;0;0;0;0;0;1
+5;3;9;Crepes and Waffles;1;0;0;0;0;0;0
+6;1;27;Cine colombia;0;1;0;0;0;0;0
+6;4;50;El corral;0;0;0;0;0;0;1
+6;3;14;Crepes and Waffles;1;0;0;0;0;0;0
+7;1;37;Cine colombia;0;1;0;0;0;0;0
+7;4;61;El corral;0;0;0;0;0;0;1
+7;3;9;Crepes and Waffles;1;0;0;0;0;0;0
+8;6;13;Juan Valdez;1;0;0;0;0;0;0
+8;7;78;Zara;0;0;0;1;0;0;0
+9;8;12;Mc Donalds;1;0;0;0;0;0;0
+9;7;85;Zara;0;0;0;1;0;0;0
+10;6;14;Juan Valdez;1;0;0;0;0;0;0
+10;9;67;Seven Seven;0;0;0;1;0;0;0
+11;10;11;Dunkin Donuts;1;0;0;0;0;0;0
+11;11;73;Stradivarius;0;0;0;1;0;0;0
+12;12;60;Bubble gummers;0;0;0;0;0;1;0
+12;8;7;Mc Donalds;1;0;0;0;0;0;0
+13;13;80;EPK;0;0;0;0;0;1;0
+13;8;6;Mc Donalds;1;0;0;0;0;0;0
+14;13;81;EPK;0;0;0;0;0;1;0
+14;3;4;Crepes and Waffles;1;0;0;0;0;0;0
+15;14;90;Offcorss;0;0;0;0;0;1;0
+15;3;5;Crepes and Waffles;1;0;0;0;0;0;0
+16;14;90;Offcorss;0;0;0;0;0;1;0
+16;16;5;Baskin Robins;1;0;0;0;0;0;0
+17;15;95;Adidas kids;0;0;0;0;0;1;0
+17;3;4;Crepes and Waffles;1;0;0;0;0;0;0
+18;12;60;Bubble gummers;0;0;0;0;0;1;0
+18;3;5;Crepes and Waffles;1;0;0;0;0;0;0
+19;15;95;Adidas kids;0;0;0;0;0;1;0
+19;17;4;Yogen Fruz;1;0;0;0;0;0;0
